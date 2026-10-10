@@ -1,0 +1,83 @@
+﻿Station,Site,Zone,Date,Tide,Field class,Intervention,Beach width (m),Latitude,Longitude
+003,003,Kilifi,16 Jul,Low,Erosion hotspot,None recorded,24,-2.994164,40.198472
+004,004,Kilifi,16 Jul,Low,Erosion hotspot,None recorded,,-2.993447,40.200349
+005,Navy 005,Kilifi,16 Jul,Low,Erosion hotspot,None recorded,128,-2.993553,40.200548
+006,Navy2,Kilifi,16 Jul,Low,Erosion hotspot,None recorded,,-2.993157,40.201787
+007,Sabaki,Kilifi,16 Jul,Low,Erosion hotspot,None recorded,60,-3.167447,40.144758
+008,Sabaki 2,Kilifi,16 Jul,Low,Erosion hotspot,None recorded,100,-3.167834,40.145612
+009,Sabaki,Kilifi,16 Jul,Low,Erosion hotspot,None recorded,61,-3.167664,40.145386
+010,Shella BMU,Kilifi,17 Jul,Low,Stable,None recorded,50,-3.223194,40.128195
+011,Shella BMU 011,Kilifi,17 Jul,Low,Other,None recorded,66,-3.223576,40.128817
+012,Shella,Kilifi,17 Jul,Low,Accretion hotspot,None recorded,55,-3.221697,40.126641
+013,Shella,Kilifi,17 Jul,Low,Accretion hotspot,None recorded,116,-3.214795,40.126393
+014,Shella,Kilifi,17 Jul,Low,Accretion hotspot,None recorded,114,-3.213805,40.124814
+015,Lawfords,Kilifi,17 Jul,Low,Accretion hotspot,None recorded,123,-3.211296,40.12444
+016,Lawfords,Kilifi,17 Jul,Low,Accretion hotspot,None recorded,144,-3.211523,40.122794
+017,Blue Marin,Kilifi,17 Jul,Low,Accretion hotspot,None recorded,,-3.208698,40.122919
+018,Blue marin,Kilifi,17 Jul,Low,Accretion hotspot,None recorded,135,-3.20604,40.123658
+020,Navy 2,Kilifi,17 Jul,Low,Erosion hotspot,Seawall,45,-3.259547,40.13153
+021,Stephane c,Kilifi,17 Jul,Low,Erosion hotspot,None recorded,32,-3.25862,40.131712
+022,Kwa Joho,Kilifi,17 Jul,Low,Erosion hotspot,Seawall (damaged),32,-3.258098,40.131977
+023,White house,Kilifi,17 Jul,Low,Erosion hotspot,Seawall,30,-3.257579,40.13201
+024,Billionaire club,Kilifi,17 Jul,Low,Erosion hotspot,Seawall,35,-3.256863,40.132281
+025,Billionaire club,Kilifi,17 Jul,Low,Unclassified,Seawall,23,-3.256155,40.132835
+026,Billionaire-KWS,Kilifi,17 Jul,Low,Erosion hotspot,Seawall,65,-3.25513,40.131931
+028,Wamamu BMU,Kilifi,18 Jul,Low,Stable,Seawall,18,-3.351817,40.024781
+029,Watamu BMU,Kilifi,18 Jul,Low,Stable,Seawall,21,-3.353666,40.023822
+030,Watamu,Kilifi,18 Jul,Low,Accretion hotspot,Seawall,22,-3.352211,40.024023
+031,Watamu BMU,Kilifi,18 Jul,Low,Stable,None recorded,,-3.350485,40.026119
+032,Watamu bmu,Kilifi,18 Jul,Low,Other,None recorded,16,-3.349499,40.027628
+033,Watamu bmu,Kilifi,18 Jul,Low,Accretion hotspot,None recorded,10,-3.349499,40.027628
+034,Mkoko,Kilifi,18 Jul,Low,Stable,Seawall,46,-3.356853,40.020064
+035,Mkoko,Kilifi,18 Jul,Low,Erosion hotspot,Seawall,26,-3.357044,40.01594
+036,Mkoko,Kilifi,18 Jul,Low,Erosion hotspot,Planted vegetation,,-3.359106,40.013702
+037,Watamu Marine park,Kilifi,18 Jul,Low,Erosion hotspot,Seawall,32,-3.360945,40.008981
+038,Hemingways,Kilifi,18 Jul,Low,Erosion hotspot,Boulders / revetment,36,-3.360823,40.009401
+39,Hemingways,Kilifi,18 Jul,Low,Erosion hotspot,Seawall,0,-3.361609,40.007784
+040,Bofa BMU,Kilifi,18 Jul,Low,Stable,Seawall,75,-3.586918,39.89287
+041,Bofa main,Kilifi,18 Jul,Low,Stable,None at site (seawall on adjacent plot),72,-3.587242,39.892655
+042,BofA main,Kilifi,18 Jul,Low,Unclassified,Seawall,45,-3.589292,39.892086
+043,Silencer palms,Kilifi,18 Jul,Low,Stable,Boulders / revetment,45,-3.595216,39.888914
+Na,Kilifi bay 1,Kilifi,19 Jul,High,Stable,Seawall,15,-3.606045,39.884126
+Na,Kilifi bay 2,Kilifi,19 Jul,High,Stable,Seawall,23,-3.602993,39.885557
+Na,Kilifi bay 3,Kilifi,19 Jul,High,Stable,Seawall,29,-3.604856,39.884942
+Na,Kilifi bay hotel,Kilifi,19 Jul,High,Stable,Seawall,22,-3.606226,39.883957
+Na,Kuruwitu,Kilifi,19 Jul,High,Stable,None recorded,19,-3.804728,39.833233
+MW-01,Mwandamo,Kwale–Mombasa,16 Jul,Low,Erosion hotspot,None recorded,190,-4.456846,39.49758
+MW-02,Mwandamo,Kwale–Mombasa,16 Jul,Low,Erosion hotspot,None recorded,168,-4.457222,39.498296
+MW-03,Mwandamo,Kwale–Mombasa,16 Jul,Low,Erosion hotspot,None recorded,300,-4.457433,39.498796
+MW-04,Mwandamo,Kwale–Mombasa,16 Jul,Low,Erosion hotspot,Seawall,110,-4.45537,39.499289
+GZ-01,Gazi,Kwale–Mombasa,16 Jul,Low,Erosion hotspot,Seawall,45,-4.428979,39.511974
+GZ-02,Gazi,Kwale–Mombasa,16 Jul,Low,Erosion hotspot,Seawall,41,-4.429203,39.511959
+GZ-03,Gazi,Kwale–Mombasa,16 Jul,Low,Erosion hotspot,Seawall,28,-4.428709,39.512211
+GZ-04,Gazi,Kwale–Mombasa,16 Jul,Low,Erosion hotspot,Seawall,41,-4.428153,39.512709
+GZ-05,Gazi,Kwale–Mombasa,16 Jul,Low,Accretion hotspot,Seawall,34,-4.427114,39.513251
+GZ - 06,Gazi,Kwale–Mombasa,16 Jul,Low,Accretion hotspot,Seawall,32,-4.426332,39.513675
+GZ -07,Gazi,Kwale–Mombasa,16 Jul,Low,Accretion hotspot,Seawall,28,-4.425889,39.513885
+FZ-01,Funzi,Kwale–Mombasa,17 Jul,High,Erosion hotspot,None recorded,36.5,-4.578915,39.436676
+FZ-02,Funzi,Kwale–Mombasa,17 Jul,High,Erosion hotspot,Seawall,38.1,-4.577865,39.436751
+FZ-03,Funzi,Kwale–Mombasa,17 Jul,High,Erosion hotspot,None recorded,20.9,-4.577021,39.436741
+FZ-04,Funzi,Kwale–Mombasa,17 Jul,High,Erosion hotspot,None recorded,19,-4.576812,39.436643
+SH-01,Shimoni,Kwale–Mombasa,17 Jul,Low,Stable,None recorded,101.8,-4.649064,39.382901
+SH-02,Shimoni,Kwale–Mombasa,17 Jul,Low,Stable,Seawall,105.0,-4.648775,39.381981
+SH-0387,Shimoni,Kwale–Mombasa,17 Jul,Low,Stable,Seawall,97.3,-4.648599,39.381115
+KIJ-01,Kijiweni,Kwale–Mombasa,17 Jul,Low,Stable,None recorded,29.1,-4.644493,39.367418
+KIJ-02,Kijiweni,Kwale–Mombasa,17 Jul,Low,Stable,Seawall,54.6,-4.644391,39.36708
+KIJ-03,Kijeweni,Kwale–Mombasa,17 Jul,Low,Erosion hotspot,None recorded,44.4,-4.644214,39.367165
+KR-01,Kongo river,Kwale–Mombasa,18 Jul,High,Accretion hotspot,None recorded,39.3,-4.263008,39.598217
+KR-02,Kongo river,Kwale–Mombasa,18 Jul,High,Accretion hotspot,None recorded,22.2,-4.259648,39.598758
+KR-03,Kongo river,Kwale–Mombasa,18 Jul,High,Stable,None recorded,19.9,-4.259787,39.598604
+KR-04,Kongo river,Kwale–Mombasa,18 Jul,High,Stable,Seawall,16.1,-4.262076,39.597959
+KR-05,Kongo River,Kwale–Mombasa,18 Jul,Low,Accretion hotspot,None recorded,20.1,-4.257324,39.599193
+KR-06,Kongo river,Kwale–Mombasa,18 Jul,Low,Stable,None recorded,15.8,-4.256077,39.599818
+KR-07,Kongo river,Kwale–Mombasa,18 Jul,Low,Stable,None recorded,23.3,-4.255131,39.600142
+KR-08,Kongo river,Kwale–Mombasa,18 Jul,Low,Erosion hotspot,None recorded,23,-4.253009,39.601215
+SHB-01,Shelly beach,Kwale–Mombasa,18 Jul,Low,Erosion hotspot,None recorded,115.7,-4.114283,39.663641
+SHB-02,Shelly beach,Kwale–Mombasa,18 Jul,Low,Stable,None recorded,47.7,-4.11291,39.664058
+SHB-03,Shelly beach,Kwale–Mombasa,18 Jul,Low,Stable,None recorded,37.6,-4.111842,39.664771
+NYB-01,Nyali beach,Kwale–Mombasa,19 Jul,Low,Stable,None recorded,49.6,-4.053988,39.705839
+NYB-02,Nyali beach,Kwale–Mombasa,19 Jul,Low,Stable,None recorded,53.8,-4.054128,39.705604
+NYB-03,Nyali beach,Kwale–Mombasa,19 Jul,Low,Erosion hotspot,None recorded,35,-4.056193,39.704223
+MS-01,Maasai,Kwale–Mombasa,19 Jul,Low,Erosion hotspot,Seawall,42.0,-4.028974,39.722457
+MS-02,Maasai,Kwale–Mombasa,19 Jul,Low,Stable,Seawall,50.7,-4.027757,39.723084
+MS-03,Maasai,Kwale–Mombasa,19 Jul,Low,Erosion hotspot,Seawall,39.8,-4.026146,39.723942

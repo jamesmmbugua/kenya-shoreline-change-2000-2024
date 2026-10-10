@@ -1,0 +1,10 @@
+﻿metric,estimate,CI_lower,CI_upper
+n,84034.0,,
+RMSE_m,0.0801,0.0782,0.0817
+MAE_m,0.0635,0.0621,0.0647
+mean_error_m,0.0,,
+Pearson_r,0.9956,0.9954,0.9959
+Pearson_p,0.0,,
+R_squared,0.9913,,
+regression_slope,1.004,,
+regression_intercept_m,0.0,,

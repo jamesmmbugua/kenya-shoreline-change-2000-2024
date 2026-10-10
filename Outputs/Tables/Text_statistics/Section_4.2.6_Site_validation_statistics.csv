@@ -1,0 +1,26 @@
+﻿Statistic,Value
+Sites surveyed,82
+Classified sites (three main classes),78
+Sites matched within 150 m,76
+Median site-to-transect distance (m),15.2
+Overall agreement,0.368
+Overall agreement 95% CI low,0.183
+Overall agreement 95% CI high,0.544
+Cohen's kappa,0.059
+Kappa 95% CI low,-0.233
+Kappa 95% CI high,0.294
+Linear weighted kappa,0.183
+Weighted kappa 95% CI low,-0.176
+Weighted kappa 95% CI high,0.425
+Bootstrap localities,16
+Direction agreement where both show change,0.923
+Direction agreement n,13
+"Median WLR, erosion hotspots (m/yr)",-0.057
+"Median WLR, stable (m/yr)",0.2
+"Median WLR, accretion hotspots (m/yr)",3.171
+Jonckheere-Terpstra permutation p (one-sided),0.0002
+Spearman rho (class order vs WLR),0.365
+"Kruskal-Wallis H, beach width by class",1.37
+Kruskal-Wallis p,0.504
+Kruskal-Wallis n,73
+Sites with an intervention,38

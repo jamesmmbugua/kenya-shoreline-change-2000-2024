@@ -1,0 +1,4 @@
+Zone,n,Mean_EPR,Median_EPR,SD_EPR,Mean_WLR,Median_WLR,SD_WLR,Mean_NSM,Median_NSM,SD_NSM,Eroding (%),Accreting (%),Not distinguishable (%)
+Kilifi,5442,0.53,0.09,3.61,0.57,0.14,3.57,11.82,2.04,82.0,8.36,34.09,57.55
+Kwale-Mombasa,3910,0.84,0.06,5.47,0.51,0.01,6.09,20.22,1.41,131.45,11.36,15.81,72.84
+Tana-Manda,3100,-0.67,-0.14,5.51,-0.92,-0.25,5.28,-8.11,-3.34,53.88,36.23,5.97,57.81

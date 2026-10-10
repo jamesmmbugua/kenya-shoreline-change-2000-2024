@@ -1,0 +1,6 @@
+﻿Field class,DSAS eroding,DSAS stable,DSAS accreting,Total,Recall (%)
+Erosion hotspot,3,33,0,36,8
+Stable,4,16,7,27,59
+Accretion hotspot,1,3,9,13,69
+Total,8,52,16,76,
+Precision (%),38,31,56,,
